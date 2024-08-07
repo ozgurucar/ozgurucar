@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özgür Uçar</h1>
 <h3 align="center">Computer engineering student at Celal Bayar University.</h3>
 
-- 🌱 I’m currently learning **Python,Flutter&Dart,Java**
+- 🌱 I’m currently learning **Java, Spring, Angular,Flutter&Dart,Python**
 
 - 📫 How to reach me **ucar.ozgur@outlook.com**
 
