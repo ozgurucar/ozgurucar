@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özgür Uçar</h1>
-<h3 align="center">Computer engineering student at Celal Bayar University.</h3>
+<h3 align="center">Computer engineering student at Dokuz Eylül University.</h3>
 
 - 🌱 I’m currently learning **Java, Spring, Angular, Flutter&Dart, Python**
 
