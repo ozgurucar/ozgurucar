@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ucar.ozgur@outlook.com**
 
-- 📄 Know about my experiences [https://ozgurucar.github.io/cv.html](https://ozgurucar.github.io/cv.html)
+  <!--📄 Know about my experiences [https://ozgurucar.github.io/cv.html](https://ozgurucar.github.io/cv.html)->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
