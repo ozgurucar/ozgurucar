@@ -3,7 +3,7 @@
 <h3 align="center">Currently working at KocSistem.</h3>
 
 - 🌱 Life-long learner
-<h3 align="center">Skills</h3>
+<h3>Skills</h3>
 - **C#, .NET Core, React, Flutter & Dart**
 
 - 📫 How to reach me **ucar.ozgur@outlook.com**
