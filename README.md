@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Özgür Uçar</h1>
-<h3 align="center">Computer engineering student at Dokuz Eylul University.</h3>
+<h3 align="center">Junior Full-Stack Developer.</h3>
+<h3 align="center">Currently working at KocSistem.</h3>
 
-- 🌱 I’m currently learning **Java, Spring, Angular & React, Flutter & Dart, Python**
+- 🌱 Life-long learner
+<h3 align="center">Skills</h3>
+- **C#, .NET Core, React, Flutter & Dart**
 
 - 📫 How to reach me **ucar.ozgur@outlook.com**
 
