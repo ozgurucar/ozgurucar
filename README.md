@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özgür Uçar</h1>
 <h3 align="center">Junior Full-Stack Developer.</h3>
-<h3 align="center">Currently working at KocSistem.</h3>
+
 
 - 🌱 Life-long learner
 <h3>Skills</h3>
